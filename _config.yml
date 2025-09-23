@@ -1,0 +1,11 @@
+title: 武汉市劲捷电子信息有限公司
+description: 武汉市劲捷电子信息有限公司致力于智慧城市、安防集成、弱电工程和信息化运维，为政府与企事业单位提供端到端的系统解决方案。
+slogan: 智慧城市与信息化综合服务商
+url: https://www.027.net
+lang: zh-CN
+timezone: Asia/Shanghai
+permalink: pretty
+markdown: kramdown
+collections:
+  news:
+    output: true
